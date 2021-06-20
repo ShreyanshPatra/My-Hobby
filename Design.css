@@ -23,7 +23,7 @@ p {
 .Menu {
     list-style: none;
     font-family: cursive;
-    position: absolute;
+    position: fixed;
     height: 50px;
     width: :100px;
     right: 50px;
@@ -57,4 +57,12 @@ a{
 }
 p{
     font-size: 15px;
+}
+#A2{
+    font-family: cursive;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
 }
